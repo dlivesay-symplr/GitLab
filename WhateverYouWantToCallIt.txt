@@ -1,9 +1,5 @@
 Blah
 Blah
-<<<<<<< HEAD
-
+HOWDY
 
 A DIFFERENT CHANGE
-=======
-HOWDY
->>>>>>> mybranch
